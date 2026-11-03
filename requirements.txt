@@ -1,3 +1,0 @@
-streamlit==1.45.1
-requests==2.32.3
-Pillow==11.2.1
