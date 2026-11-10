@@ -1,5 +1,0 @@
-# Streamlit Community Cloud: Python 3.11 권장
-# 과거 버전 단일 고정을 피하고 Python에 호환되는 배포본을 선택합니다.
-streamlit>=1.45.1,<2.0
-requests>=2.32.3,<3.0
-Pillow>=11.3.0,<13.0
